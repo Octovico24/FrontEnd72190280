@@ -634,3 +634,7 @@ C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\RazorDecla
 C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Razor\Pages\DepartmentPage.razor.g.cs
 C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
 C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Razor\Pages\DetailDepartment.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployeePage.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Razor\Pages\DetailEmployeePage.razor.g.cs

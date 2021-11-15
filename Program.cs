@@ -22,6 +22,7 @@ namespace Blazor72190280
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = uri});
             builder.Services.AddScoped<IDepartmentService,DepartmentService>();
+            builder.Services.AddScoped<IEmployeeService,EmployeeService>();
 
             await builder.Build().RunAsync();
         }

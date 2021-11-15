@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 53021162,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.Pages.DepartmentPage",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DepartmentPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.Pages.DepartmentPage"
+        }
+      },
+      {
+        "HashCode": -1105685620,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.Pages.DepartmentPage",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor72190280.Pages.DepartmentPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.Pages.DepartmentPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -886262581,
         "Kind": "Components.Component",
         "Name": "Blazor72190280.Pages.DetailDepartment",
@@ -94,6 +127,39 @@
         }
       },
       {
+        "HashCode": -751865811,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.Pages.Index",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1605724692,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.Pages.Index",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor72190280.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -22517681,
         "Kind": "Components.Component",
         "Name": "Blazor72190280.Pages.FetchData",
@@ -127,35 +193,88 @@
         }
       },
       {
-        "HashCode": -751865811,
+        "HashCode": 1663029399,
         "Kind": "Components.Component",
-        "Name": "Blazor72190280.Pages.Index",
+        "Name": "Blazor72190280.Pages.EmployeePage",
         "AssemblyName": "Blazor72190280",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "EmployeePage"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor72190280.Pages.Index"
+          "Common.TypeName": "Blazor72190280.Pages.EmployeePage"
         }
       },
       {
-        "HashCode": 1605724692,
+        "HashCode": -1400679491,
         "Kind": "Components.Component",
-        "Name": "Blazor72190280.Pages.Index",
+        "Name": "Blazor72190280.Pages.EmployeePage",
         "AssemblyName": "Blazor72190280",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Blazor72190280.Pages.Index"
+            "TagName": "Blazor72190280.Pages.EmployeePage"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor72190280.Pages.Index",
+          "Common.TypeName": "Blazor72190280.Pages.EmployeePage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1275195879,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.Pages.DetailEmployeePage",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailEmployeePage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.Pages.DetailEmployeePage"
+        }
+      },
+      {
+        "HashCode": -2142184185,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.Pages.DetailEmployeePage",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor72190280.Pages.DetailEmployeePage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.Pages.DetailEmployeePage",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13102,9 +13221,19 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Pages\\EmployeePage.razor",
+      "TargetPath": "Pages\\EmployeePage.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Pages\\DetailEmployeePage.razor",
+      "TargetPath": "Pages\\DetailEmployeePage.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Shared\\SurveyPrompt.razor",

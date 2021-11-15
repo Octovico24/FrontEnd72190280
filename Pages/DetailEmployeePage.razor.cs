@@ -8,17 +8,17 @@ using Microsoft.AspNetCore.Components;
 
 namespace Blazor72190280.Pages
 {
-    public partial class DetailDepartment
+    public partial class DetailEmployeePage
     {
         [Parameter]
         public string id { get; set; }
-        public Department Department { get; set; } = new Department();
+        public Employee Employee { get; set; } = new Employee();
         [Inject]
-        public IDepartmentService DepartmentService { get; set; }
+        public IEmployeeService EmployeeService { get; set; }
         protected override async Task OnInitializedAsync()
         {
             id = id ?? "1";
-            Department = await DepartmentService.GetById(int.Parse(id));
+            Employee = await EmployeeService.GetById(Convert.ToInt32(id));
         }
     }
 }
