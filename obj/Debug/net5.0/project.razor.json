@@ -8,35 +8,55 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 506103265,
+        "HashCode": -886262581,
         "Kind": "Components.Component",
-        "Name": "Blazor72190280.App",
+        "Name": "Blazor72190280.Pages.DetailDepartment",
         "AssemblyName": "Blazor72190280",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "DetailDepartment"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor72190280.App"
+          "Common.TypeName": "Blazor72190280.Pages.DetailDepartment"
         }
       },
       {
-        "HashCode": 538439076,
+        "HashCode": -720206137,
         "Kind": "Components.Component",
-        "Name": "Blazor72190280.App",
+        "Name": "Blazor72190280.Pages.DetailDepartment",
         "AssemblyName": "Blazor72190280",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Blazor72190280.App"
+            "TagName": "Blazor72190280.Pages.DetailDepartment"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor72190280.App",
+          "Common.TypeName": "Blazor72190280.Pages.DetailDepartment",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -136,6 +156,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazor72190280.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 506103265,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.App",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.App"
+        }
+      },
+      {
+        "HashCode": 538439076,
+        "Kind": "Components.Component",
+        "Name": "Blazor72190280.App",
+        "AssemblyName": "Blazor72190280",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor72190280.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor72190280.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13019,6 +13072,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Pages\\DetailDepartment.razor",
+      "TargetPath": "Pages\\DetailDepartment.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
@@ -13036,6 +13094,11 @@
     {
       "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Pemrograman Front-End (Semester 5)\\Blazor72190280\\Pages\\DepartmentPage.razor",
+      "TargetPath": "Pages\\DepartmentPage.razor",
       "FileKind": "component"
     },
     {

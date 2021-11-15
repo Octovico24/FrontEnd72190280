@@ -630,3 +630,7 @@ C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Blazor7219
 C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Blazor72190280.dll
 C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\ref\Blazor72190280.dll
 C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Blazor72190280.pdb
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\RazorDeclaration\Pages\DepartmentPage.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Razor\Pages\DepartmentPage.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
+C:\Pemrograman Front-End (Semester 5)\Blazor72190280\obj\Debug\net5.0\Razor\Pages\DetailDepartment.razor.g.cs
