@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Threading.Tasks;
 using Blazor72190280.Models;
+using System.Text.Json;
 
 namespace Blazor72190280.Services
 {
@@ -38,9 +39,15 @@ namespace Blazor72190280.Services
             return result;
         }
 
-        public Task<Employee> Update(int id, Employee employee)
+        public async Task<Employee> Update(int id, Employee employee)
         {
-            throw new NotImplementedException();
+            var response = await _httpClient.PostAsJsonAsync($"api/Employees/{id}", employee);
+            if(response.IsSuccessStatusCode){
+                return await JsonSerializer.DeserializeAsync<Employee>(await response.Content.ReadAsStreamAsync());
+            }
+            else{
+                throw new Exception("Gagal Update Employee");
+            }
         }
     }
 }
