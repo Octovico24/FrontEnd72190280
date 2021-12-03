@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'blazorFE72190280'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_24D38EA428C148518D1CB1A7765CB04E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B95ED8B9B7B41069CE79B2EA7C6B11B }}
           package: .
